@@ -44,8 +44,13 @@ body {
     margin: 0;
 }
 
-article, aside, footer, header, nav, section {
+article, aside, header, nav, section {
     display: block;
+}
+
+footer {
+    display: block;
+    background-color: rgba(109, 1, 1, 0.637); /* Adjust the alpha value (last parameter) as needed */
 }
 
 h1 {

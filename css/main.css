@@ -1161,8 +1161,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     content: "";
 }
 
-.skill-bars li .percent5 {
-    width: 5%;
+.skill-bars li .percent79 {
+    width: 79%;
 }
 
 .skill-bars li .percent10 {
@@ -1239,6 +1239,18 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .skill-bars li .percent100 {
     width: 100%;
+}
+.skill-bars li .percent88 {
+    width: 88%;
+}
+.skill-bars li .percent93 {
+    width: 93%;
+}
+.skill-bars li .percent96 {
+    width: 96%;
+}
+.skill-bars li .percent97 {
+    width: 97%;
 }
 
 
