@@ -50,7 +50,7 @@ article, aside, header, nav, section {
 
 footer {
     display: block;
-    background-color: rgba(109, 1, 1, 0.637); /* Adjust the alpha value (last parameter) as needed */
+    background-color: rgb(83, 0, 0); /* Adjust the alpha value (last parameter) as needed */
 }
 
 h1 {
